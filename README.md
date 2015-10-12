@@ -6,32 +6,32 @@ The primary things you’ll need to use it are an understanding of our data mode
 
 ### Concepts
 
-* [Authorization](concepts/authorization)
-* [Formats](concepts/formats)
-* [Revisions](concepts/revisions)
+* [Authorization](concepts/authorization.md)
+* [Formats](concepts/formats.md)
+* [Revisions](concepts/revisions.md)
 
 ### Endpoints
 
-* [Avatar](endpoints/avatar)
-* [File](endpoints/file)
-* [File Preview](endpoints/file_preview)
-* [Folder](endpoints/folder)
-* [List](endpoints/list)
-* [Membership](endpoints/membership)
-* [Note](endpoints/note)
-* [Positions](endpoints/positions)
-* [Reminder](endpoints/reminder)
-* [Root](endpoints/root)
-* [Subtask](endpoints/subtask)
-* [Task](endpoints/task)
-* [Task Comment](endpoints/task_comment)
-* [Upload](endpoints/upload)
-* [User](endpoints/user)
-* [Webhooks](endpoints/webhook)
+* [Avatar](endpoints/avatar.md)
+* [File](endpoints/file.md)
+* [File Preview](endpoints/file_preview.md)
+* [Folder](endpoints/folder.md)
+* [List](endpoints/list.md)
+* [Membership](endpoints/membership.md)
+* [Note](endpoints/note.md)
+* [Positions](endpoints/positions.md)
+* [Reminder](endpoints/reminder.md)
+* [Root](endpoints/root.md)
+* [Subtask](endpoints/subtask.md)
+* [Task](endpoints/task.md)
+* [Task Comment](endpoints/task_comment.md)
+* [Upload](endpoints/upload.md)
+* [User](endpoints/user.md)
+* [Webhooks](endpoints/webhook.md)
 
 ### Tools
 
-* [Wundlist.js SDK](tools/wunderlist.js)
+* [Wundlist.js SDK](tools/wunderlist.js.md)
 
 ### Support
 
