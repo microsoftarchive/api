@@ -1,13 +1,41 @@
-## Introduction
+## Wunderlist API Documentation
 
 The Wunderlist API provides REST-based storage and synchronization of a user’s lists across multiple platforms and devices.
 
-The primary things you’ll need to use it are an understanding of our data model, how we [version individual entities](documentation/concepts/revisions) in a user’s data, the [formats we use for transmission](documentation/concepts/formats), and a set of [OAuth credentials](documentation/concepts/authorization).
+The primary things you’ll need to use it are an understanding of our data model, how we [version individual entities](concepts/revisions) in a user’s data, the [formats we use for transmission](concepts/formats), and a set of [OAuth credentials](concepts/authorization).
+
+### Concepts
+
+* [Authorization](concepts/authorization)
+* [Formats](concepts/formats)
+* [Revisions](concepts/revisions)
+
+### Endpoints
+
+* [Avatar](endpoints/avatar)
+* [File](endpoints/file)
+* [File Preview](endpoints/file_preview)
+* [Folder](endpoints/folder)
+* [List](endpoints/list)
+* [Membership](endpoints/membership)
+* [Note](endpoints/note)
+* [Positions](endpoints/positions)
+* [Reminder](endpoints/reminder)
+* [Root](endpoints/root)
+* [Subtask](endpoints/subtask)
+* [Task](endpoints/task)
+* [Task Comment](endpoints/task_comment)
+* [Upload](endpoints/upload)
+* [User](endpoints/user)
+* [Webhooks](endpoints/webhook)
+
+### Tools
+
+* [Wundlist.js SDK](tools/wunderlist.js)
 
 ### Support
 
-Each page of this documentation has a Disqus comment box for questions and feedback. You can also reach us at [support@wunderlist.com](mailto:support@wunderlist.com) if you need help.
-
+You can report issues or ask questions via our [GitHub repository](https://github.com/wunderlist/api/issues). You can also reach us at [support@wunderlist.com](mailto:support@wunderlist.com).
 
 ### Compatibility
 
