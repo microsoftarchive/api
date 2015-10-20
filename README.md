@@ -4,6 +4,8 @@ The Wunderlist API provides REST-based storage and synchronization of a user’s
 
 The primary things you’ll need to use it are an understanding of our data model, how we [version individual entities](concepts/revisions.md) in a user’s data, the [formats we use for transmission](concepts/formats.md), and a set of [OAuth credentials](concepts/authorization.md).
 
+<!-- START_TOC -->
+
 ### Concepts
 
 * [Authorization](concepts/authorization.md)
@@ -32,6 +34,8 @@ The primary things you’ll need to use it are an understanding of our data mode
 ### Tools
 
 * [Wundlist.js SDK](tools/wunderlist.js.md)
+
+<!-- END_TOC -->
 
 ### Support
 
