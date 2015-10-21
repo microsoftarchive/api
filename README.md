@@ -39,7 +39,7 @@ The primary things you’ll need to use it are an understanding of our data mode
 
 ### Support
 
-You can report issues or ask questions via our [GitHub repository](https://github.com/wunderlist/api/issues). You can also reach us at [support@wunderlist.com](mailto:support@wunderlist.com).
+The source for this documentation in at [GitHub ](https://github.com/wunderlist/api). If you have questions or need to report an issue, please [open an issue](https://github.com/wunderlist/api/issues).
 
 ### Compatibility
 
