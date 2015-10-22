@@ -29,7 +29,7 @@ The primary things you’ll need to use it are an understanding of our data mode
 * [Task Comment](endpoints/task_comment.md)
 * [Upload](endpoints/upload.md)
 * [User](endpoints/user.md)
-* [Webhooks](endpoints/webhook.md)
+* [Webhooks](endpoints/webhooks.md)
 
 ### Tools
 
