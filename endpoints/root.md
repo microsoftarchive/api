@@ -1,6 +1,6 @@
 ## Root
 
-Root is the top-level entity in the [sync hierarchy](/documentation/concepts/revisions).
+Root is the top-level entity in the [sync hierarchy](concepts/revisions.md).
 
 ### Fetch the Root for the current User
 

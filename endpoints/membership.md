@@ -128,4 +128,4 @@ revision  | integer | **required**
 
 ### See Also
 
-  - [user](/documentation/endpoints/user) - get information about users
+  - [user](endpoints/user.md) - get information about users

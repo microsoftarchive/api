@@ -39,7 +39,7 @@ All tasks created in Wunderlist belong to a list.
       "type": "list",
       "revision": 10
     }
-<!-- 
+<!--
 ### Get a List's Task Counts
 
     GET a.wunderlist.com/api/v1/lists/tasks_count
@@ -171,6 +171,6 @@ revision  | integer | **required**
 
 ### See Also
 
-  - [task](/documentation/endpoints/task) - get the tasks belonging to a given list
-  - [membership](/documentation/endpoints/membership) - determine list ownership, members, and whether the list is pending or accepted
-  - [positions](/documentation/endpoints/positions) - get the current order for a users' lists
+  - [task](endpoints/task.md) - get the tasks belonging to a given list
+  - [membership](endpoints/membership.md) - determine list ownership, members, and whether the list is pending or accepted
+  - [positions](endpoints/positions.md) - get the current order for a users' lists
