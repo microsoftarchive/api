@@ -84,7 +84,7 @@ revision  | integer        | **required**
       "values": [123, 234, 345, 456, 321],
       "revision": 124,
       "list_id": 34234234,
-      "type": "task_position"
+      "type": "list_position"
     }
 
 ### Get Positions for a list's tasks
