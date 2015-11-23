@@ -6,7 +6,7 @@ list's tasks or a task's subtasks.
 
 ### Determining Order
 
-Positions are almost completely docoupled from the resource they refer to.
+Positions are almost completely decoupled from the resource they refer to.
 Order is determined by the order of the resources' ids in the "values" array on
 the positions object. This leads to two possibilities:
 
