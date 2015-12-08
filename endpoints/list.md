@@ -124,37 +124,6 @@ title     | string  | maximum length is 255 characters
       "type": "list"
     }
 
-### Make a list public
-
-    PATCH a.wunderlist.com/api/v1/lists/:id
-
-#### Data
-
-name      | type    | notes
-:---------|:--------|:------------
-revision  | integer | **required**
-public    | boolean |
-
-#### Request body example
-
-    json
-    {
-      "revision": 1000,
-      "public": true
-    }
-
-
-#### Response
-
-    Status 200
-
-    json
-    {
-      "id": 409233670,
-      "revision": 1001,
-      "public": true
-    }
-
 ### Delete a list permanently
 
     DELETE a.wunderlist.com/api/v1/lists/:id
