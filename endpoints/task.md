@@ -139,6 +139,7 @@ starred           | boolean
 name              | type          | notes
 :-----------------|:--------------|:------------
 revision          | integer       | **required**
+list_id           | integer       | can be given to move the Task into a different List
 title             | string        | maximum length is 255 characters
 assignee_id       | integer
 completed         | boolean
