@@ -34,7 +34,7 @@ list_id   | integer | **required**
 
 ### Create a Webhook
 
-    POST a.wunderlist.com/api/v1/webhoooks
+    POST a.wunderlist.com/api/v1/webhooks
 
 #### Data
 
