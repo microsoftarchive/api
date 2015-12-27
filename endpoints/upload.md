@@ -1,8 +1,8 @@
 ## Upload
 
-The first resource that needs to be created to upload a file is the [Upload](/documentation/endpoints/upload) resource. After the upload
-is finished you need to create a new [File](/documentation/endpoints/file) resource that will published via real time to
-all the other members of the [List](/documentation/endpoints/list) you are creating the [File](/documentation/endpoints/file) in.
+The first resource that needs to be created to upload a file is the [Upload](endpoints/upload.md) resource. After the upload
+is finished you need to create a new [File](endpoints/file.md) resource that will published via real time to
+all the other members of the [List](endpoints/list.md) you are creating the [File](endpoints/file.md) in.
 
 Here are the single steps you need to process to finish a file upload.
 
