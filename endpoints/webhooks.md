@@ -86,4 +86,4 @@ revision  | integer | **required**
 
 ### See Also
 
-  - [membership](/documentation/endpoints/membership) - determine list ownership, members, and whether the list is pending or accepted
+  - [membership](membership.md) - determine list ownership, members, and whether the list is pending or accepted
