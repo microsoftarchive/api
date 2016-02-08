@@ -29,7 +29,7 @@ All dates and times in the Wunderlist API are formatted as ISO-8601 strings. All
 
 ### Error Responses
 
-Error responses are transmitted as a `error` dictionary and contain at least `type`, `translation_key`, and `message` attributes.
+Error responses are transmitted as an `error` dictionary and contain at least `type`, `translation_key`, and `message` attributes.
 
 #### 401 Unauthorized
 
