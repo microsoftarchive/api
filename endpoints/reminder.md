@@ -90,11 +90,11 @@ revision          | integer | **required**
 
 #### Request body example
 
-json
-{
-    "revision": 2,
-    "date": "2015-06-30T08:29:46.203Z"
-}
+    json
+    {
+        "revision": 2,
+        "date": "2015-06-30T08:29:46.203Z"
+    }
 
 #### Response
 
