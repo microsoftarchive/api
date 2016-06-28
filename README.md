@@ -41,6 +41,9 @@ The primary things you’ll need to use it are an understanding of our data mode
 
 The source for this documentation in at [GitHub ](https://github.com/wunderlist/api). If you have questions or need to report an issue, please [open an issue](https://github.com/wunderlist/api/issues).
 
+### Code of Conduct
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
 ### Compatibility
 
 This API *will* evolve rapidly and future versions will add new endpoints and parameters. To provide a sane experience, the API is versioned. Within a version, the behavior and return values of the API will not change from currently documented behavior and return values. As well, the API and its data payloads are designed so that new parameters and return values can be added at any time.
@@ -50,4 +53,4 @@ To provide the best experience, a well-behaved Wunderlist API client must not se
 
 ### Security
 
-It should go without saying, but all requests must be made using a secure connection. We support a minimum of TLS 1.0. We also recommend that you use certificate pinning in clients that you ship and which may operate on untrusted public networks.  
+It should go without saying, but all requests must be made using a secure connection. We support a minimum of TLS 1.0. We also recommend that you use certificate pinning in clients that you ship and which may operate on untrusted public networks.
