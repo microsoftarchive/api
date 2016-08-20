@@ -50,9 +50,9 @@ configuration   | string  | **required** can be ""
     json
     {
       "list_id": 105743947,
-      "url":"https://foo.bar.chadfowler.com/struts/asdf.do",
-      "processor_type":"generic",
-      "configuration":""
+      "url": "https://foo.bar.chadfowler.com/struts/asdf.do",
+      "processor_type": "generic",
+      "configuration": ""
     }
 
 #### Response
