@@ -33,7 +33,7 @@ The primary things you’ll need to use it are an understanding of our data mode
 
 ### Tools
 
-* [Wundlist.js SDK](tools/wunderlist.js.md)
+* [Wunderlist.js SDK](tools/wunderlist.js.md)
 
 <!-- END_TOC -->
 
