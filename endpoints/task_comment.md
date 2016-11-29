@@ -31,7 +31,12 @@ list_id           | integer | **required**
         "revision": 12,
         "text": "Hey there",
         "type": "task_comment",
-        "created_at": "2013-08-30T08:36:13.273Z"
+        "created_at": "2013-08-30T08:36:13.273Z",
+        "author": {
+          "id": 11111111,
+          "name": "EXAMPLE",
+          "avatar": "https:\/\/a.wunderlist.com\/api\/v1\/avatar?user_id=11111111"
+        }
       }
     ]
 
@@ -82,8 +87,12 @@ text              | string  | **required**
       "id": 1234,
       "task_id": 1234,
       "revision": 12,
-      "read": false,
       "text": "Hey there",
       "type": "task_comment",
-      "created_at": "2013-08-30T08:36:13.273Z"
+      "created_at": "2013-08-30T08:36:13.273Z",
+      "author": {
+        "id": 11111111,
+        "name": "EXAMPLE",
+        "avatar": "https:\/\/a.wunderlist.com\/api\/v1\/avatar?user_id=11111111"
+      }
     }
