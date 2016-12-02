@@ -84,7 +84,6 @@ created\_by\_device\_udid | string  | **optional**
 
 name              | type    | notes
 :-----------------|:--------|:------------
-id                | integer | **required**
 date              | string  | **required**
 revision          | integer | **required**
 
