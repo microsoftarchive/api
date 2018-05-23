@@ -37,6 +37,8 @@ The primary things you’ll need to use it are an understanding of our data mode
 
 <!-- END_TOC -->
 
+### [Microsoft API License & Terms of Use](tos.md)
+
 ### Support
 
 The source for this documentation in at [GitHub ](https://github.com/wunderlist/api). If you have questions or need to report an issue, please [open an issue](https://github.com/wunderlist/api/issues).
