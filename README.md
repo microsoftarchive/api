@@ -37,9 +37,7 @@ The primary things you’ll need to use it are an understanding of our data mode
 
 <!-- END_TOC -->
 
-### Terms
-
-* [Microsoft API License & Terms of Use](/documents/terms/terms_of_use)
+### [Microsoft API License & Terms of Use](/documents/terms/terms_of_use)
 
 ### Support
 
