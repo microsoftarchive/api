@@ -31,15 +31,15 @@ The primary things you’ll need to use it are an understanding of our data mode
 * [User](endpoints/user.md)
 * [Webhooks](endpoints/webhooks.md)
 
+### Terms
+
+* [Microsoft API License & Terms of Use](terms/terms_of_service.md)
+
 ### Tools
 
 * [Wunderlist.js SDK](tools/wunderlist.js.md)
 
 <!-- END_TOC -->
-
-### Terms
-
-* [Microsoft API License & Terms of Use](terms/terms_of_service.md)
 
 ### Support
 
