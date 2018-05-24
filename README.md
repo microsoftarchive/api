@@ -6,10 +6,6 @@ The primary things you’ll need to use it are an understanding of our data mode
 
 <!-- START_TOC -->
 
-### Terms
-
-* [Microsoft API License & Terms of Use](terms/tos.md)
-
 ### Concepts
 
 * [Authorization](concepts/authorization.md)
@@ -41,9 +37,13 @@ The primary things you’ll need to use it are an understanding of our data mode
 
 <!-- END_TOC -->
 
+### Terms
+
+* [Microsoft API License & Terms of Use](terms/terms_of_service.md)
+
 ### Support
 
-The source for this documentation in at [GitHub ](https://github.com/wunderlist/api). If you have questions or need to report an issue, please [open an issue](https://github.com/wunderlist/api/issues).
+The source for this documentation in at [GitHub](https://github.com/wunderlist/api). If you have questions or need to report an issue, please [open an issue](https://github.com/wunderlist/api/issues).
 
 ### Code of Conduct
 
