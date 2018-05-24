@@ -46,6 +46,7 @@ The primary things you’ll need to use it are an understanding of our data mode
 The source for this documentation in at [GitHub ](https://github.com/wunderlist/api). If you have questions or need to report an issue, please [open an issue](https://github.com/wunderlist/api/issues).
 
 ### Code of Conduct
+
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 ### Compatibility
@@ -53,7 +54,6 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 This API *will* evolve rapidly and future versions will add new endpoints and parameters. To provide a sane experience, the API is versioned. Within a version, the behavior and return values of the API will not change from currently documented behavior and return values. As well, the API and its data payloads are designed so that new parameters and return values can be added at any time.
 
 To provide the best experience, a well-behaved Wunderlist API client must not send undocumented parameters as part of their request. These parameters could collide with a future version of the API. As well, a Wunderlist API client must accept and ignore any additional keys that it doesn’t handle in a response.
-
 
 ### Security
 
