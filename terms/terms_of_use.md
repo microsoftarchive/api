@@ -9,9 +9,13 @@ By installing, accessing, or otherwise using a Microsoft API within a software a
 #### 1. Licenses and Guidelines
 
 - **a. Microsoft API License**
+
   Subject to your compliance with these API Terms, Microsoft grants you a limited, non-exclusive, non-assignable, non-transferable, revocable license to install, use, and make calls to Microsoft APIs to develop, test, and support your Application, and allow end users to use your integration of Microsoft APIs within your Application. You may use the Microsoft APIs only as expressly permitted in these API Terms.
+
 - **b. Microsoft API Guidelines**
+
   When using the Microsoft APIs, you may not:
+
   - i. Use a Microsoft API in a way that could impair, harm or damage Microsoft, any Microsoft service or application, or anyone’s use of a Microsoft API, service or application;
   - ii. Use any data accessed or obtained using the Microsoft API for advertising or marketing purposes other than in connection with your Application;
   - iii. Use a Microsoft API to confuse, deceive, defraud, mislead, or spam anyone;
@@ -31,9 +35,13 @@ By installing, accessing, or otherwise using a Microsoft API within a software a
   - xii. Request from a Microsoft API any information outside any permissions granted by the user of your Application, if a Microsoft API requires permissions;
   - xiii. Redistribute or resell or sublicense access to any Microsoft service or content; or
   - xiv. Falsify or alter any unique referral identifier in, or assigned to an Application, or otherwise obscure or alter the source of queries coming from an Application.
+
 - **c. Microsoft Brand Use License & Guidelines**
+
   Subject to your compliance with these API Terms and, if applicable, the requirements set forth in the Microsoft icon’s branding guidelines, Microsoft grants you a limited, non-exclusive, non-assignable, non-transferable, worldwide, revocable right to use the Microsoft icon specifically associated with the Microsoft API (“**Microsoft Icon**”) solely in connection with an Application connected to a Microsoft API in accordance with these API Terms. The right to use the Microsoft Icons as granted herein does not imply or grant you any additional rights to use or display any Microsoft brand, logo, mark or icon not explicitly granted herein, nor does it grant you any rights to distribute, market or promote any Microsoft product or service or other intellectual property.
+
   You may not:
+
   - i. Use or display the Microsoft Icon in any way that is misleading, defamatory, infringing, libelous, disparaging, obscene, or otherwise objectionable to Microsoft in its sole discretion;
   - ii. Sublicense the Microsoft Icon and/or purport to permit any third party to use the Microsoft Icon in any manner without Microsoft’s prior written consent;
   - iii. Use the Microsoft Icon in connection with merchandising or sale of related or promotional products not related to the Application;
@@ -79,12 +87,18 @@ You may be given access to certain non-public information, software, and specifi
 #### 7. Disclaimer of Warranties, Limitation of Liability and Indemnity
 
 - **a. Disclaimer of Warranties**
-    **WE MAKE NO WARRANTIES, EXPRESS OR IMPLIED, GUARANTEES OR CONDITIONS WITH RESPECT TO YOUR USE OF THE MICROSOFT APIS. YOU UNDERSTAND THAT USE OF THE MICROSOFT APIS IS AT YOUR OWN RISK AND THAT WE PROVIDE MICROSOFT APIS ON AN “AS IS” BASIS “WITH ALL FAULTS” AND "AS AVAILABLE." TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAW, WE EXCLUDE ANY IMPLIED WARRANTIES, INCLUDING FOR MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, WORKMANLIKE EFFORT, AND NON-INFRINGEMENT. YOU MAY HAVE CERTAIN RIGHTS UNDER YOUR LOCAL LAW. NOTHING IN THESE API TERMS ARE INTENDED TO AFFECT THOSE RIGHTS, IF THEY ARE APPLICABLE. YOU ACKNOWLEDGE THAT COMPUTER AND TELECOMMUNICATIONS SYSTEMS ARE NOT FAULT-FREE AND OCCASIONAL PERIODS OF DOWNTIME OCCUR. WE DON'T GUARANTEE MICROSOFT APIS WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE OR THAT CONTENT LOSS WON'T OCCUR.YOU MAY BE ABLE TO ACCESS THIRD-PARTY WEBSITES OR SERVICES VIA MICROSOFT APIS; YOU ACKNOWLEDGE THAT WE ARE NOT RESPONSIBLE FOR SUCH WEBSITES OR SERVICES OR CONTENT THAT MAY BE AVAILABLE THERE.**
+
+  **WE MAKE NO WARRANTIES, EXPRESS OR IMPLIED, GUARANTEES OR CONDITIONS WITH RESPECT TO YOUR USE OF THE MICROSOFT APIS. YOU UNDERSTAND THAT USE OF THE MICROSOFT APIS IS AT YOUR OWN RISK AND THAT WE PROVIDE MICROSOFT APIS ON AN “AS IS” BASIS “WITH ALL FAULTS” AND "AS AVAILABLE." TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAW, WE EXCLUDE ANY IMPLIED WARRANTIES, INCLUDING FOR MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, WORKMANLIKE EFFORT, AND NON-INFRINGEMENT. YOU MAY HAVE CERTAIN RIGHTS UNDER YOUR LOCAL LAW. NOTHING IN THESE API TERMS ARE INTENDED TO AFFECT THOSE RIGHTS, IF THEY ARE APPLICABLE. YOU ACKNOWLEDGE THAT COMPUTER AND TELECOMMUNICATIONS SYSTEMS ARE NOT FAULT-FREE AND OCCASIONAL PERIODS OF DOWNTIME OCCUR. WE DON'T GUARANTEE MICROSOFT APIS WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE OR THAT CONTENT LOSS WON'T OCCUR.YOU MAY BE ABLE TO ACCESS THIRD-PARTY WEBSITES OR SERVICES VIA MICROSOFT APIS; YOU ACKNOWLEDGE THAT WE ARE NOT RESPONSIBLE FOR SUCH WEBSITES OR SERVICES OR CONTENT THAT MAY BE AVAILABLE THERE.**
+
 - **b. Limitation of Liability**
-    **If you have any basis for recovering damages (including breach of these Terms), you agree that your exclusive remedy is to recover, from Microsoft or any affiliates, resellers, distributors, suppliers (and respective employees, shareholders, or directors) and vendors, only direct damages up to USD $5.00 collectively. You can't recover any other damages or losses, including, without limitation, direct, consequential, lost profits, special, indirect, incidental, or punitive.**
-    These limitations and exclusions apply even if this remedy doesn't fully compensate you for any losses or fails of its essential purpose or if we knew or should have known about the possibility of the damages. To the maximum extent permitted by law, these limitations and exclusions apply to anything or any claims related to these Terms or your use of any Microsoft API or the Microsoft Icons.
+
+  **If you have any basis for recovering damages (including breach of these Terms), you agree that your exclusive remedy is to recover, from Microsoft or any affiliates, resellers, distributors, suppliers (and respective employees, shareholders, or directors) and vendors, only direct damages up to USD $5.00 collectively. You can't recover any other damages or losses, including, without limitation, direct, consequential, lost profits, special, indirect, incidental, or punitive.**
+
+  These limitations and exclusions apply even if this remedy doesn't fully compensate you for any losses or fails of its essential purpose or if we knew or should have known about the possibility of the damages. To the maximum extent permitted by law, these limitations and exclusions apply to anything or any claims related to these Terms or your use of any Microsoft API or the Microsoft Icons.
+
 - **c. Indemnity**
-    You will defend, hold harmless, and indemnify Microsoft from any claim or action brought by a third party, including all damages, liabilities, costs and expenses, and reasonable attorney fees, to the extent resulting from, alleged to have resulted from, or in connection with your breach of the obligations herein or infringement of Microsoft’s or a third party’s intellectual property.
+
+  You will defend, hold harmless, and indemnify Microsoft from any claim or action brought by a third party, including all damages, liabilities, costs and expenses, and reasonable attorney fees, to the extent resulting from, alleged to have resulted from, or in connection with your breach of the obligations herein or infringement of Microsoft’s or a third party’s intellectual property.
 
 #### 8. Termination
 
