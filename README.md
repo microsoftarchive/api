@@ -6,6 +6,8 @@ The primary things you’ll need to use it are an understanding of our data mode
 
 <!-- START_TOC -->
 
+### Terms
+
 * [Microsoft API License & Terms of Use](terms/tos.md)
 
 ### Concepts
