@@ -6,6 +6,8 @@ The primary things you’ll need to use it are an understanding of our data mode
 
 <!-- START_TOC -->
 
+* [Microsoft API License & Terms of Use](terms/tos.md)
+
 ### Concepts
 
 * [Authorization](concepts/authorization.md)
@@ -36,8 +38,6 @@ The primary things you’ll need to use it are an understanding of our data mode
 * [Wunderlist.js SDK](tools/wunderlist.js.md)
 
 <!-- END_TOC -->
-
-### [Microsoft API License & Terms of Use](tos.md)
 
 ### Support
 
