@@ -70,7 +70,7 @@ You must comply with all laws and regulations applicable to your use of the data
 - iii. implement proper retention and deletion policies, including deleting all data when your user uninstalls your Application, closes its account with you, or abandons the account, and,
 - iv. maintain and conform to a written statement available to customers and users that describe your privacy practices regarding data and information you collect and use, and that statement must be as protective as the Microsoft Privacy Statement.
 
-Nothing in these API Terms shall be construed as creating an employer-employee relationship, a partnership, or a joint venture between the parties. Further, for data protection purposes, nothing in these API Terms shall be construed as creating a joint controller or processor-subprocessor relationship between you and Microsoft.
+Nothing in these API Terms shall be construed as creating an employer-employee relationship, a partnership, or a joint venture between the parties. Further, for data protection purposes, nothing in these API Terms shall be construed as creating a joint controller or processor- subprocessor relationship between you and Microsoft.
 
 ### 4. Changes to Microsoft APIs
 

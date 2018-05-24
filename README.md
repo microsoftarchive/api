@@ -37,7 +37,9 @@ The primary things you’ll need to use it are an understanding of our data mode
 
 <!-- END_TOC -->
 
-### [Microsoft API License & Terms of Use](/documentation/terms/terms_of_use)
+### Wunderlist API Terms of Use
+
+Usage of the Wunderlist API is governed by the [Microsoft API License & Terms of Use](/documentation/terms/terms_of_use).
 
 ### Support
 
