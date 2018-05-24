@@ -39,7 +39,7 @@ The primary things you’ll need to use it are an understanding of our data mode
 
 ### Terms
 
-* [Microsoft API License & Terms of Use](terms/terms_of_use.md)
+* [Microsoft API License & Terms of Use](/documents/terms/terms_of_use)
 
 ### Support
 
