@@ -41,7 +41,7 @@ By installing, accessing, or otherwise using a Microsoft API within a software a
   - v. Use the Microsoft Icon in a way that would damage Microsoft’s reputation or goodwill in the Microsoft Icon; or
   - vi. Alter, animate, or distort the Microsoft Icon or combine it with any other symbols, words, images, or designs, or incorporate them into a tagline or slogan.
 
-In addition to the requirements under these Terms, you must at all times also comply with the Microsoft Brand Guidelines located at https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/default.aspx. We may change the Brand Guidelines without notice; you are responsible for keeping your use compliant with the current Brand Guidelines. Microsoft will be the sole beneficiary of any goodwill associated with your use of the Microsoft Icons.
+In addition to the requirements under these Terms, you must at all times also comply with the Microsoft Brand Guidelines located at [https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/default.aspx](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/default.aspx). We may change the Brand Guidelines without notice; you are responsible for keeping your use compliant with the current Brand Guidelines. Microsoft will be the sole beneficiary of any goodwill associated with your use of the Microsoft Icons.
 
 #### 2. Security
 
@@ -49,9 +49,9 @@ You warrant that your Application has been developed to operate with Microsoft A
 
 We may use technology to detect, prevent or limit the impact of any issues caused by your Application (before or instead of suspension of your access). This may include, for example, filtering to stop spam, limiting or removing your access to the Microsoft API.
 
-You must have a process to respond to any vulnerabilities in your Application, and in the case of any vulnerabilities related to your Application’s connection to the Microsoft API discovered by you or reported to you by a third party, you agree that you will provide vulnerability details to the Microsoft Security Response Center (secure@microsoft.com).
+You must have a process to respond to any vulnerabilities in your Application, and in the case of any vulnerabilities related to your Application’s connection to the Microsoft API discovered by you or reported to you by a third party, you agree that you will provide vulnerability details to the Microsoft Security Response Center ([secure@microsoft.com](mailto:secure@microsoft.com)).
 
-In the event of a data breach by either party resulting from any aspect of the Microsoft API involving your Application or any content collected through your Application, you will contact the Microsoft Security Response Center (secure@microsoft.com) and provide details of the data breach. You agree to refrain from making public statements (e.g. press, blogs, social media, bulletin boards, etc.) without prior written and express permission from Microsoft in each instance as it relates to the Microsoft API.
+In the event of a data breach by either party resulting from any aspect of the Microsoft API involving your Application or any content collected through your Application, you will contact the Microsoft Security Response Center ([secure@microsoft.com](mailto:secure@microsoft.com)) and provide details of the data breach. You agree to refrain from making public statements (e.g. press, blogs, social media, bulletin boards, etc.) without prior written and express permission from Microsoft in each instance as it relates to the Microsoft API.
 
 #### 3. Your Compliance with Applicable Data Protection Laws
 
