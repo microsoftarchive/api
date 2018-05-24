@@ -81,14 +81,15 @@ If you give feedback about the Microsoft APIs to Microsoft, you give to Microsof
 
 You may be given access to certain non-public information, software, and specifications relating to the Microsoft API (“**Confidential Information**”), which is confidential and proprietary to Microsoft. You may use Confidential Information only as necessary in exercising your rights granted under these API Terms. You may not disclose any Confidential Information to any third party without Microsoft’s prior written consent. You agree that you will protect any Confidential Information from unauthorized use, access, or disclosure in the same manner that you would use to protect your own confidential and proprietary information.
 
-#### 7.Disclaimer of Warranties, Limitation of Liability and Indemnity
+#### 7. Disclaimer of Warranties, Limitation of Liability and Indemnity
 
 - **a. Disclaimer of Warranties**
 
   **WE MAKE NO WARRANTIES, EXPRESS OR IMPLIED, GUARANTEES OR CONDITIONS WITH RESPECT TO YOUR USE OF THE MICROSOFT APIS. YOU UNDERSTAND THAT USE OF THE MICROSOFT APIS IS AT YOUR OWN RISK AND THAT WE PROVIDE MICROSOFT APIS ON AN “AS IS” BASIS “WITH ALL FAULTS” AND "AS AVAILABLE." TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAW, WE EXCLUDE ANY IMPLIED WARRANTIES, INCLUDING FOR MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, WORKMANLIKE EFFORT, AND NON-INFRINGEMENT. YOU MAY HAVE CERTAIN RIGHTS UNDER YOUR LOCAL LAW. NOTHING IN THESE API TERMS ARE INTENDED TO AFFECT THOSE RIGHTS, IF THEY ARE APPLICABLE. YOU ACKNOWLEDGE THAT COMPUTER AND TELECOMMUNICATIONS SYSTEMS ARE NOT FAULT-FREE AND OCCASIONAL PERIODS OF DOWNTIME OCCUR. WE DON'T GUARANTEE MICROSOFT APIS WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE OR THAT CONTENT LOSS WON'T OCCUR.YOU MAY BE ABLE TO ACCESS THIRD-PARTY WEBSITES OR SERVICES VIA MICROSOFT APIS; YOU ACKNOWLEDGE THAT WE ARE NOT RESPONSIBLE FOR SUCH WEBSITES OR SERVICES OR CONTENT THAT MAY BE AVAILABLE THERE.**
 - **b. Limitation of Liability**
 
-  **If you have any basis for recovering damages (including breach of these Terms), you agree that your exclusive remedy is to recover, from Microsoft or any affiliates, resellers, distributors, suppliers (and respective employees, shareholders, or directors) and vendors, only direct damages up to USD $5.00 collectively. You can't recover any other damages or losses, including, without limitation, direct, consequential, lost profits, special, indirect, incidental, or punitive.** These limitations and exclusions apply even if this remedy doesn't fully compensate you for any losses or fails of its essential purpose or if we knew or should have known about the possibility of the damages. To the maximum extent permitted by law, these limitations and exclusions apply to anything or any claims related to these Terms or your use of any Microsoft API or the Microsoft Icons.
+  **If you have any basis for recovering damages (including breach of these Terms), you agree that your exclusive remedy is to recover, from Microsoft or any affiliates, resellers, distributors, suppliers (and respective employees, shareholders, or directors) and vendors, only direct damages up to USD $5.00 collectively. You can't recover any other damages or losses, including, without limitation, direct, consequential, lost profits, special, indirect, incidental, or punitive.**
+  These limitations and exclusions apply even if this remedy doesn't fully compensate you for any losses or fails of its essential purpose or if we knew or should have known about the possibility of the damages. To the maximum extent permitted by law, these limitations and exclusions apply to anything or any claims related to these Terms or your use of any Microsoft API or the Microsoft Icons.
 - **c. Indemnity**
 
   You will defend, hold harmless, and indemnify Microsoft from any claim or action brought by a third party, including all damages, liabilities, costs and expenses, and reasonable attorney fees, to the extent resulting from, alleged to have resulted from, or in connection with your breach of the obligations herein or infringement of Microsoft’s or a third party’s intellectual property.
@@ -97,7 +98,7 @@ You may be given access to certain non-public information, software, and specifi
 
 We may immediately terminate or suspend these API Terms, any rights granted herein, and/or your license to the Microsoft APIs, in our sole discretion at any time, for any reason. You may terminate these API Terms at any time by ceasing your access to the Microsoft APIs. Upon termination, all licenses granted herein immediately expire and you must cease use of the Microsoft APIs. Neither party will not be liable to the other for any damages resulting solely from termination of these API Terms.
 
-#### 9.General Terms
+#### 9. General Terms
 
 - **a. Applicable Law**
   - i. **United States.** If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles. The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
