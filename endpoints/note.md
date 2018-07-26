@@ -83,8 +83,7 @@ content   | string  | **required**
        "revision":1,
        "content":"asdasdasdasd",
        "type":"note",
-       "task_id":3979851817,
-       "created_by_request_id":"498d3ffc44ddfa2f275b:461e650d-74ad-4013-8d69-f20316480723:33b316ad-d97e-40d3-a2c4-115d-e9c35a9b:24735194:lw7e21339610a5304d564152e6e86a40"
+       "task_id":3979851817
     }
 
 ### Update a note by overwriting properties
