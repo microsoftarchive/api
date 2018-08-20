@@ -29,7 +29,7 @@ list_id   | integer | **required**
        {
           "id":266380668,
           "revision":1,
-          "content":"asdasdasdasd",
+          "content":"Hi there!",
           "type":"note",
           "task_id":3979851817
        }
@@ -47,7 +47,7 @@ list_id   | integer | **required**
     {
        "id":266380668,
        "revision":1,
-       "content":"asdasdasdasd",
+       "content":"Hi there!",
        "type":"note",
        "task_id":3979851817
     }
@@ -79,7 +79,7 @@ content   | string  | **required**
     {
        "id":266380668,
        "revision":1,
-       "content":"asdasdasdasd",
+       "content":"Hi there!",
        "type":"note",
        "task_id":3979851817
     }
@@ -111,7 +111,7 @@ content   | string | **required**
     {
        "id":266380668,
        "revision":1,
-       "content":"asdasdasdasd",
+       "content":"Hi there!",
        "type":"note",
        "task_id":3979851817
     }
