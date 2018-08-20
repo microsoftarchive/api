@@ -23,8 +23,8 @@ A Membership is the join model between Users and Lists.
         "muted": false
       },
       {
-        "id": -26817784,
-        "user_id": -12345,
+        "id": 26817783,
+        "user_id": 312345,
         "list_id": 83526257,
         "state": "accepted",
         "type": "membership",
@@ -61,7 +61,7 @@ muted     | boolean |
 
     json
     {
-      "id": -26817784,
+      "id": 26817783,
       "user_id": 6234958,
       "list_id": 12345,
       "state": "pending",
