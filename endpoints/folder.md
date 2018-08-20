@@ -126,7 +126,7 @@ list_ids  | array of integers | **optional** (list of ids)
 
 name      | type    | notes
 :---------|:--------|:---------
-revision  | string  | **required**
+revision  | integer | **required**
 
 #### Response
 
