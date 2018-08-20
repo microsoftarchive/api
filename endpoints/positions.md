@@ -195,7 +195,7 @@ list_id   | integer | **required**
 
 ## Get a specific subtask position
 
-    GET a.wunderlist.com/api/v1/subtask_positions/:ids
+    GET a.wunderlist.com/api/v1/subtask_positions/:id
 
 ### Response
 
