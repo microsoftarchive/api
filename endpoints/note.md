@@ -26,14 +26,13 @@ list_id   | integer | **required**
 
     json
     [
-      {
-        "id": 1,
-        "task_id": 1234,
-        "content": "Hey there",
-        "created_at": "2013-08-30T08:36:13.273Z",
-        "updated_at": "2013-08-30T08:36:13.273Z",
-        "revision": 999
-      }
+       {
+          "id":266380668,
+          "revision":1,
+          "content":"Hi there!",
+          "type":"note",
+          "task_id":3979851817
+       }
     ]
 
 ### Get a specific note
@@ -46,12 +45,11 @@ list_id   | integer | **required**
 
     json
     {
-      "id": 1,
-      "task_id": 1234,
-      "content": "Hey there",
-      "created_at": "2013-08-30T08:36:13.273Z",
-      "updated_at": "2013-08-30T08:36:13.273Z",
-      "revision": 999
+       "id":266380668,
+       "revision":1,
+       "content":"Hi there!",
+       "type":"note",
+       "task_id":3979851817
     }
 
 ### Create a note
@@ -79,12 +77,11 @@ content   | string  | **required**
 
     json
     {
-      "id": 1,
-      "task_id": 1234,
-      "content": "Hey there",
-      "created_at": "2013-08-30T08:36:13.273Z",
-      "updated_at": "2013-08-30T08:36:13.273Z",
-      "revision": 999
+       "id":266380668,
+       "revision":1,
+       "content":"Hi there!",
+       "type":"note",
+       "task_id":3979851817
     }
 
 ### Update a note by overwriting properties
@@ -112,12 +109,11 @@ content   | string | **required**
 
     json
     {
-      "id": 1,
-      "task_id": 1234,
-      "content": "Hey there",
-      "created_at": "2013-08-30T08:36:13.273Z",
-      "updated_at": "2013-08-30T08:36:13.273Z",
-      "revision": 1000
+       "id":266380668,
+       "revision":1,
+       "content":"Hi there!",
+       "type":"note",
+       "task_id":3979851817
     }
 
 ### Delete a note
