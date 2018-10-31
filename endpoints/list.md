@@ -88,7 +88,7 @@ title     | string  | **required.** maximum length is 255 characters
     {
       "id": 83526310,
       "created_at": "2013-08-30T08:29:46.203Z",
-      "title": "Read Later",
+      "title": "Hallo",
       "revision": 1000,
       "type": "list"
     }
@@ -121,7 +121,7 @@ title     | string  | maximum length is 255 characters
       "id": 409233670,
       "created_at": "2013-08-30T08:29:46.203Z",
       "revision": 1001,
-      "title": "Hello",
+      "title": "Hallo",
       "type": "list"
     }
 
