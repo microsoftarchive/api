@@ -2,7 +2,7 @@
 
 The Wunderlist API provides REST-based storage and synchronization of a user’s lists across multiple platforms and devices.
 
-The primary things you’ll need to use it are an understanding of our data model, how we [version individual entities](concepts/revisions.md) in a user’s data, the [formats we use for transmission](concepts/formats.md), and a set of [OAuth credentials](concepts/authorization.md).
+The primary things you’ll need to use it is an understanding of our data model, how we [version individual entities](concepts/revisions.md) in a user’s data, the [formats we use for transmission](concepts/formats.md), and a set of [OAuth credentials](concepts/authorization.md).
 
 <!-- START_TOC -->
 
@@ -43,7 +43,7 @@ Usage of the Wunderlist API is governed by the [Microsoft API License & Terms of
 
 ### Support
 
-The source for this documentation in at [GitHub](https://github.com/wunderlist/api). If you have questions or need to report an issue, please [open an issue](https://github.com/wunderlist/api/issues).
+The source for this documentation is available at [GitHub](https://github.com/wunderlist/api). If you have any questions or need to report an issue, please [open an issue](https://github.com/wunderlist/api/issues).
 
 ### Code of Conduct
 
